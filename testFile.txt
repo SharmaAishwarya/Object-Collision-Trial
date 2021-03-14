@@ -1,6 +1,0 @@
-Button pressed at 7.146531 - 2/21/2021 3:49:59 PM
-Button pressed at 8.503397 - 2/21/2021 3:50:00 PM
-Button pressed at 8.539445 - 2/21/2021 3:50:00 PM
-Button pressed at 9.527125 - 2/21/2021 3:50:01 PM
-Button pressed at 9.542082 - 2/21/2021 3:50:01 PM
-Button pressed at 10.82137 - 2/21/2021 3:50:02 PM
