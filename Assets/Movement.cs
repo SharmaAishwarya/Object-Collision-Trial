@@ -1,7 +1,6 @@
 //APPLY TO CLONED OBJECT 
 //MOVES OBJECT AND AFTER 3 SECONDS IT STOPS THE RENDERING BUT DOES NOT DESTROY THE OBJECT
 
-
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -10,7 +9,7 @@ public class Movement : MonoBehaviour
 {
     public float moveSpeed = 2f;
     public Renderer rend;
-
+    
     //timers
     private float moveTime = 3.0f;
     private float timer = 0.0f;
