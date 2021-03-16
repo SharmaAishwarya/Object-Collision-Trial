@@ -24,17 +24,52 @@ public class PrimaryReactor : MonoBehaviour
 
 
     void Start()
-    {
+    {   // 10 speed for 2f
         speed.Add(2f);
         speed.Add(2f);
         speed.Add(2f);
+        speed.Add(2f);
+        speed.Add(2f);
+        speed.Add(2f);
+        speed.Add(2f);
+        speed.Add(2f);
+        speed.Add(2f);
+        speed.Add(2f);
+        // 10 speed for 4f
+        speed.Add(4f);
+        speed.Add(4f);
+        speed.Add(4f);
+        speed.Add(4f);
+        speed.Add(4f);
+        speed.Add(4f);
+        speed.Add(4f);
+        speed.Add(4f);
+        speed.Add(4f);
+        speed.Add(4f);
+        // 10 speed for 6f
         speed.Add(6f);
         speed.Add(6f);
         speed.Add(6f);
         speed.Add(6f);
-        speed.Add(10f);
-        speed.Add(10f);
-        speed.Add(10f);
+        speed.Add(6f);
+        speed.Add(6f);
+        speed.Add(6f);
+        speed.Add(6f);
+        speed.Add(6f);
+        speed.Add(6f);
+        // 10 speed for 6f
+        speed.Add(8f);
+        speed.Add(8f);
+        speed.Add(8f);
+        speed.Add(8f);
+        speed.Add(8f);
+        speed.Add(8f);
+        speed.Add(8f);
+        speed.Add(8f);
+        speed.Add(8f);
+        speed.Add(8f);
+
+
         watcher.primaryButtonPress.AddListener(onPrimaryButtonEvent);
         rend = GetComponent<Renderer>();
         rend.enabled = false;   //don't show the main capsule object
