@@ -1,98 +1,61 @@
-Actual Collision occured at --- 0.52 - 3/21/2021 7:47:55 PM
-Predicted Collision occured at 6.681527 - 3/21/2021 7:48:01 PM
-Predicted Collision occured at 6.710277 - 3/21/2021 7:48:01 PM
-Predicted Collision occured at 6.740106 - 3/21/2021 7:48:01 PM
-Actual Collision occured at --- 13.46 - 3/21/2021 7:48:08 PM
-Predicted Collision occured at 13.66915 - 3/21/2021 7:48:08 PM
-Predicted Collision occured at 13.70046 - 3/21/2021 7:48:08 PM
-Predicted Collision occured at 13.72661 - 3/21/2021 7:48:08 PM
-Actual Collision occured at --- 19.16 - 3/21/2021 7:48:14 PM
-Predicted Collision occured at 19.68292 - 3/21/2021 7:48:14 PM
-Predicted Collision occured at 19.71593 - 3/21/2021 7:48:14 PM
-Predicted Collision occured at 19.74117 - 3/21/2021 7:48:14 PM
-Predicted Collision occured at 19.76756 - 3/21/2021 7:48:14 PM
-Predicted Collision occured at 19.79448 - 3/21/2021 7:48:15 PM
-Actual Collision occured at --- 24.42 - 3/21/2021 7:48:19 PM
-Predicted Collision occured at 24.44424 - 3/21/2021 7:48:19 PM
-Predicted Collision occured at 24.47824 - 3/21/2021 7:48:19 PM
-Predicted Collision occured at 24.50435 - 3/21/2021 7:48:19 PM
-Actual Collision occured at --- 30.96 - 3/21/2021 7:48:26 PM
-Predicted Collision occured at 31.43269 - 3/21/2021 7:48:26 PM
-Predicted Collision occured at 31.46534 - 3/21/2021 7:48:26 PM
-Predicted Collision occured at 31.49084 - 3/21/2021 7:48:26 PM
-Predicted Collision occured at 31.5191 - 3/21/2021 7:48:26 PM
-Actual Collision occured at --- 39.04 - 3/21/2021 7:48:34 PM
-Predicted Collision occured at 40.3139 - 3/21/2021 7:48:35 PM
-Predicted Collision occured at 40.34711 - 3/21/2021 7:48:35 PM
-Predicted Collision occured at 40.37402 - 3/21/2021 7:48:35 PM
-Predicted Collision occured at 40.39899 - 3/21/2021 7:48:35 PM
-Actual Collision occured at --- 46.78 - 3/21/2021 7:48:42 PM
-Predicted Collision occured at 47.52752 - 3/21/2021 7:48:42 PM
-Predicted Collision occured at 47.56058 - 3/21/2021 7:48:42 PM
-Predicted Collision occured at 47.58551 - 3/21/2021 7:48:42 PM
-Predicted Collision occured at 47.61184 - 3/21/2021 7:48:42 PM
-Actual Collision occured at --- 53.24 - 3/21/2021 7:48:48 PM
-Predicted Collision occured at 53.84634 - 3/21/2021 7:48:49 PM
-Predicted Collision occured at 53.87754 - 3/21/2021 7:48:49 PM
-Predicted Collision occured at 53.90504 - 3/21/2021 7:48:49 PM
-Predicted Collision occured at 53.93279 - 3/21/2021 7:48:49 PM
-Actual Collision occured at --- 61.76 - 3/21/2021 7:48:56 PM
-Predicted Collision occured at 62.70134 - 3/21/2021 7:48:57 PM
-Predicted Collision occured at 62.73436 - 3/21/2021 7:48:57 PM
-Predicted Collision occured at 62.75948 - 3/21/2021 7:48:57 PM
-Predicted Collision occured at 62.7859 - 3/21/2021 7:48:57 PM
-Predicted Collision occured at 62.81304 - 3/21/2021 7:48:58 PM
-Predicted Collision occured at 74.59104 - 3/21/2021 7:49:09 PM
-Predicted Collision occured at 74.61929 - 3/21/2021 7:49:09 PM
-Predicted Collision occured at 74.65181 - 3/21/2021 7:49:09 PM
-Predicted Collision occured at 74.67768 - 3/21/2021 7:49:09 PM
-Actual Collision occured at --- 76.08 - 3/21/2021 7:49:11 PM
-Predicted Collision occured at 87.14975 - 3/21/2021 7:49:22 PM
-Predicted Collision occured at 87.17686 - 3/21/2021 7:49:22 PM
-Predicted Collision occured at 87.20941 - 3/21/2021 7:49:22 PM
-Actual Collision occured at --- 87.54 - 3/21/2021 7:49:22 PM
-Actual Collision occured at --- 93.56 - 3/21/2021 7:49:28 PM
-Predicted Collision occured at 94.05473 - 3/21/2021 7:49:29 PM
-Predicted Collision occured at 94.08821 - 3/21/2021 7:49:29 PM
-Predicted Collision occured at 94.11292 - 3/21/2021 7:49:29 PM
-Actual Collision occured at --- 98.8 - 3/21/2021 7:49:34 PM
-Predicted Collision occured at 98.95713 - 3/21/2021 7:49:34 PM
-Predicted Collision occured at 98.98602 - 3/21/2021 7:49:34 PM
-Predicted Collision occured at 99.01207 - 3/21/2021 7:49:34 PM
-Predicted Collision occured at 99.03951 - 3/21/2021 7:49:34 PM
-Predicted Collision occured at 99.06655 - 3/21/2021 7:49:34 PM
-Actual Collision occured at --- 104.56 - 3/21/2021 7:49:39 PM
-Predicted Collision occured at 104.9686 - 3/21/2021 7:49:40 PM
-Predicted Collision occured at 105.0019 - 3/21/2021 7:49:40 PM
-Predicted Collision occured at 105.0268 - 3/21/2021 7:49:40 PM
-Predicted Collision occured at 105.0535 - 3/21/2021 7:49:40 PM
-Actual Collision occured at --- 110.18 - 3/21/2021 7:49:45 PM
-Predicted Collision occured at 110.5649 - 3/21/2021 7:49:45 PM
-Predicted Collision occured at 110.5981 - 3/21/2021 7:49:45 PM
-Predicted Collision occured at 110.623 - 3/21/2021 7:49:45 PM
-Actual Collision occured at --- 115.12 - 3/21/2021 7:49:50 PM
-Predicted Collision occured at 115.1905 - 3/21/2021 7:49:50 PM
-Predicted Collision occured at 115.2217 - 3/21/2021 7:49:50 PM
-Predicted Collision occured at 115.245 - 3/21/2021 7:49:50 PM
-Predicted Collision occured at 115.2717 - 3/21/2021 7:49:50 PM
-Predicted Collision occured at 128.191 - 3/21/2021 7:50:03 PM
-Predicted Collision occured at 128.2188 - 3/21/2021 7:50:03 PM
-Predicted Collision occured at 128.252 - 3/21/2021 7:50:03 PM
-Actual Collision occured at --- 129.18 - 3/21/2021 7:50:04 PM
-Actual Collision occured at --- 132.62 - 3/21/2021 7:50:07 PM
-Predicted Collision occured at 132.7564 - 3/21/2021 7:50:07 PM
-Predicted Collision occured at 132.7897 - 3/21/2021 7:50:08 PM
-Predicted Collision occured at 132.8149 - 3/21/2021 7:50:08 PM
-Predicted Collision occured at 132.8414 - 3/21/2021 7:50:08 PM
-Actual Collision occured at --- 138.14 - 3/21/2021 7:50:13 PM
-Predicted Collision occured at 138.6588 - 3/21/2021 7:50:13 PM
-Predicted Collision occured at 138.6926 - 3/21/2021 7:50:13 PM
-Predicted Collision occured at 138.72 - 3/21/2021 7:50:13 PM
-Predicted Collision occured at 138.7444 - 3/21/2021 7:50:13 PM
-Actual Collision occured at --- 142.9 - 3/21/2021 7:50:18 PM
-Predicted Collision occured at 143.1438 - 3/21/2021 7:50:18 PM
-Predicted Collision occured at 143.1757 - 3/21/2021 7:50:18 PM
-Predicted Collision occured at 143.2003 - 3/21/2021 7:50:18 PM
-Actual Collision occured at --- 156.02 - 3/21/2021 7:50:31 PM
-Predicted Collision occured at 156.3679 - 3/21/2021 7:50:31 PM
-Predicted Collision occured at 156.3988 - 3/21/2021 7:50:31 PM
+Actual Collision occured at --- 0.36 - 3/21/2021 8:02:12 PM
+Actual Collision occured at --- 0.44 - 3/21/2021 8:02:12 PM
+Actual Collision occured at --- 8.88 - 3/21/2021 8:02:21 PM
+Actual Collision occured at --- 16.32 - 3/21/2021 8:02:28 PM
+Actual Collision occured at --- 16.46 - 3/21/2021 8:02:28 PM
+Actual Collision occured at --- 22.68 - 3/21/2021 8:02:35 PM
+Predicted Collision occured at 23.17229 - 3/21/2021 8:02:35 PM
+Predicted Collision occured at 23.18884 - 3/21/2021 8:02:35 PM
+Predicted Collision occured at 23.20218 - 3/21/2021 8:02:35 PM
+Predicted Collision occured at 23.2159 - 3/21/2021 8:02:35 PM
+Predicted Collision occured at 23.22929 - 3/21/2021 8:02:35 PM
+Predicted Collision occured at 23.24328 - 3/21/2021 8:02:35 PM
+Predicted Collision occured at 23.25717 - 3/21/2021 8:02:35 PM
+Predicted Collision occured at 23.2706 - 3/21/2021 8:02:35 PM
+Predicted Collision occured at 23.28448 - 3/21/2021 8:02:35 PM
+Predicted Collision occured at 23.29836 - 3/21/2021 8:02:35 PM
+Actual Collision occured at --- 39.2 - 3/21/2021 8:02:51 PM
+Predicted Collision occured at 39.85064 - 3/21/2021 8:02:52 PM
+Predicted Collision occured at 39.8674 - 3/21/2021 8:02:52 PM
+Predicted Collision occured at 39.88084 - 3/21/2021 8:02:52 PM
+Predicted Collision occured at 39.89511 - 3/21/2021 8:02:52 PM
+Predicted Collision occured at 39.90821 - 3/21/2021 8:02:52 PM
+Predicted Collision occured at 39.92178 - 3/21/2021 8:02:52 PM
+Predicted Collision occured at 39.93523 - 3/21/2021 8:02:52 PM
+Predicted Collision occured at 39.94883 - 3/21/2021 8:02:52 PM
+Predicted Collision occured at 39.96279 - 3/21/2021 8:02:52 PM
+Predicted Collision occured at 50.08372 - 3/21/2021 8:03:02 PM
+Predicted Collision occured at 50.09833 - 3/21/2021 8:03:02 PM
+Predicted Collision occured at 50.11655 - 3/21/2021 8:03:02 PM
+Predicted Collision occured at 50.12941 - 3/21/2021 8:03:02 PM
+Predicted Collision occured at 50.14463 - 3/21/2021 8:03:02 PM
+Predicted Collision occured at 50.15976 - 3/21/2021 8:03:02 PM
+Predicted Collision occured at 50.17457 - 3/21/2021 8:03:02 PM
+Predicted Collision occured at 50.18975 - 3/21/2021 8:03:02 PM
+Actual Collision occured at --- 52.68 - 3/21/2021 8:03:05 PM
+Predicted Collision occured at 60.74742 - 3/21/2021 8:03:13 PM
+Predicted Collision occured at 60.76235 - 3/21/2021 8:03:13 PM
+Predicted Collision occured at 60.78076 - 3/21/2021 8:03:13 PM
+Predicted Collision occured at 60.79356 - 3/21/2021 8:03:13 PM
+Predicted Collision occured at 60.80851 - 3/21/2021 8:03:13 PM
+Predicted Collision occured at 60.82393 - 3/21/2021 8:03:13 PM
+Predicted Collision occured at 60.83894 - 3/21/2021 8:03:13 PM
+Predicted Collision occured at 60.85381 - 3/21/2021 8:03:13 PM
+Actual Collision occured at --- 62.92 - 3/21/2021 8:03:15 PM
+Actual Collision occured at --- 68.7 - 3/21/2021 8:03:21 PM
+Predicted Collision occured at 69.58816 - 3/21/2021 8:03:21 PM
+Predicted Collision occured at 69.60796 - 3/21/2021 8:03:21 PM
+Predicted Collision occured at 69.62037 - 3/21/2021 8:03:21 PM
+Predicted Collision occured at 69.63538 - 3/21/2021 8:03:22 PM
+Predicted Collision occured at 69.65045 - 3/21/2021 8:03:22 PM
+Predicted Collision occured at 69.66558 - 3/21/2021 8:03:22 PM
+Predicted Collision occured at 69.68191 - 3/21/2021 8:03:22 PM
+Actual Collision occured at --- 76.92 - 3/21/2021 8:03:29 PM
+Predicted Collision occured at 78.02479 - 3/21/2021 8:03:30 PM
+Predicted Collision occured at 78.04456 - 3/21/2021 8:03:30 PM
+Predicted Collision occured at 78.05714 - 3/21/2021 8:03:30 PM
+Predicted Collision occured at 78.07198 - 3/21/2021 8:03:30 PM
+Predicted Collision occured at 78.08754 - 3/21/2021 8:03:30 PM
+Predicted Collision occured at 78.10246 - 3/21/2021 8:03:30 PM
+Predicted Collision occured at 78.11699 - 3/21/2021 8:03:30 PM
+Predicted Collision occured at 78.13144 - 3/21/2021 8:03:30 PM
